@@ -1,3 +1,26 @@
+## Blue
+A cross-platform dating application for (lonely) university students @ uoft.
+Developed using SOLID design principles, Clean Architecture design philosophies, and MVP design patterns.
+
+### Main features:
+* Creating and managing an account:
+* Check the validity of a new username and password
+* Setting and editing account info and preferences
+* Interacting with users:
+	* Opening a chat between users who have matched
+* Matching users:
+* Utilizing an algorithm to form compatible matches between users
+
+### Feature Summary:
+* Unique Usernames
+* Liking and Disliking Other Users
+* Ability to Add Courses to your Profile
+* Setting Dealbreakers
+* Chat System for Matched Users
+* Matching Algorithm to Show Similar Users
+* Ability to Hide Attributes from Others
+* Edit Information at any Time
+* Delete Account
 
 ## Intructions for TA on running current work
 To build the project, go to the main folder, the java folder, and finally the Main file. 
